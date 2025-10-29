@@ -9,4 +9,6 @@ description = ""
 dependencies = [
     "numpy ==2.3.4",
     "torch ==2.9.0",
+    "gymnasium ==1.2.1",
+    "pygame ==2.6.1",
 ]
