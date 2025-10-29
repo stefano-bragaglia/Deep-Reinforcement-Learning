@@ -7,8 +7,9 @@ name = "reinforce"
 version = "0.0.1"
 description = ""
 dependencies = [
-    "numpy ==2.3.4",
-    "torch ==2.9.0",
     "gymnasium ==1.2.1",
+    "moviepy ==2.2.1",
+    "numpy ==2.3.4",
     "pygame ==2.6.1",
+    "torch ==2.9.0",
 ]
