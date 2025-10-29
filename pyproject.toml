@@ -6,4 +6,7 @@ build-backend = "hatchling.build"
 name = "reinforce"
 version = "0.0.1"
 description = ""
-dependencies = []
+dependencies = [
+    "numpy ==2.3.4",
+    "torch ==2.9.0",
+]
