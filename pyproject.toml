@@ -11,5 +11,6 @@ dependencies = [
     "moviepy ==2.2.1",
     "numpy ==2.3.4",
     "pygame ==2.6.1",
+    "tensorboard ==2.20.0",
     "torch ==2.9.0",
 ]
